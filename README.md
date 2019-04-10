@@ -1,6 +1,6 @@
 https://github.com/HussamAlbarakati/RF-GlutarySite
 
-This is the ReadMe file. This GitHub repository contains all the materials for paper titled "RF-GlutarySite: Random Forest based predictor for Glutatrylation Sites",
+This GitHub repository contains all the materials for paper titled "RF-GlutarySite: Random Forest based predictor for Glutatrylation Sites",
 Albarakati H., Saigo H, Newman RH and KC DB, Molecular Omics.
 
 1. Directory WINDOWS_SEQ_23 contains the following four files:
