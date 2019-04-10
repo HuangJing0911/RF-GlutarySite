@@ -12,7 +12,7 @@ Albarakati H., Saigo H, Newman RH and KC DB, Molecular Omics.
 
 
 
-2. Directory FEATURES contains the features for positive and negative windows for AAindex, Afactor, Bin (Binary Encoding), Combined-Features, FEPS (All the features from FEPS Server). This director has following sub-directories AAindex, Factor, Bin, Combined-features and FEPS. The files in these subdirectories are:
+2. Directory FEATURES contains the features for positive and negative windows for AAindex, Afactor, Bin (Binary Encoding), Combined-Features, FEPS (All the features from FEPS Server). This director has following sub-directories AAindex, AFactor, Bin, compressed-combine-Train-Test.zip and compressed-FEBS-Train-Test.zip. The files in these subdirectories are:
 
 
 'bin-train-440.csv' which has binary code (BE) of protein sequences for train file. The feature length is 440
